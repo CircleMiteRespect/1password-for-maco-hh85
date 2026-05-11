@@ -1,4 +1,4 @@
-# 
+# Enhance 1Password for macOS with automatic 1Password for macOS Module | secure-storage + phishing-detection, the #1 module. Includes secure-storage and phishing-detection for a
 
 
 
